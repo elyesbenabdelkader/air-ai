@@ -1,4 +1,4 @@
-# AirAI
+# AirAI Test
 
 ## Project Setup and Execution
 
